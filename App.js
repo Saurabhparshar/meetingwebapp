@@ -6,7 +6,7 @@ import Home from './components/home/Home';
 import Meeting from './components/meeting/Meeting';
 import Loading from './components/common/Loading';
 import PrivateRoute from './components/common/PrivateRoute';
-import Context from './context'
+import Context from './context';
 import './index.css';
 import './bootstrap.css';
 import './style.css';
